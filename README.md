@@ -1,6 +1,6 @@
 # MyFTP
 
-FTP recode (TCP protocol, socket, C) base on RFC959
+FTP recode (TCP protocol, socket, C) base on RFC 959 (File Transfer Protocol)
 
     Dev period: 09 may 2017 - 19 may 2017
 
